@@ -13,3 +13,4 @@ Advanced regression techniques like random forest and gradient boosting
 
 ## Results
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
