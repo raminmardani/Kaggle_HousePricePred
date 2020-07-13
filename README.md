@@ -13,4 +13,4 @@ Advanced regression techniques like random forest and gradient boosting
 
 ## Results
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/raminmardani/Kaggle_HousePricePred/blob/master/2020-07-13_082856.jpg?raw=true)
